@@ -1,0 +1,13 @@
+.Net5/.Net Core Notes
+
+1. Single SDK and 1 Base class language, unified toolchain
+2. Before we have .Net framework, .Net core, Mono/xamarin- now this 3 together is .Net
+3. cross platform apps can be build
+4. Roslyn complier is new complier to complie c# and VB code in .Net 5 
+5. CoreCLR -- group of techonlogies that are fundametal to the runtime
+6. IL- Intermediate language code genrates machine code
+JIT- just in time complier
+Core CLR we ca nrun in cross platform environment but CLR cannot
+dll- Dynamic link library
+MSIL- Inbetween compliation i.e in phase 1 and phase 2- Microsoft Integrated language
+PE-portable execution
